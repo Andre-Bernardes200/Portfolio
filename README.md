@@ -209,3 +209,45 @@ Foquei na estabilidade do sistema e na clareza das comunicações internas.
 * Capacidade de adaptação – aprendi novas tecnologias para atender demandas urgentes.
 
 ---
+
+### Quinto Semestre (2025-1) – Track
+
+**Empresa Parceira:** Youtan  
+**[Repositório Git](https://github.com/iNineBD/Track-5Sem2025Main)**
+
+**Problema:**  
+A Youtan, empresa especializada no desenvolvimento de softwares e aplicações personalizadas, enfrentava desafios na visualização de indicadores-chave de seus fluxos de trabalho. A ausência de um painel centralizado dificultava o acompanhamento de métricas como tempo médio de conclusão, volume de tarefas por período e distribuição de atividades entre colaboradores. Além disso, a limitação do Taiga em oferecer níveis de acesso diferenciados comprometia a personalização das informações apresentadas para operadores, gestores e administradores, reduzindo a eficiência e a transparência na gestão dos projetos.
+
+**Solução:**  
+Foi desenvolvida uma plataforma web de **gestão e monitoramento de desempenho de projetos**, integrada ao **Taiga** e **Jira**, com o objetivo de oferecer visibilidade e insights dinâmicos sobre métricas e indicadores.  
+A solução possibilita a visualização de dados como número de cards criados e concluídos, tempo médio de execução e distribuição de tarefas por colaborador.  
+Com diferentes níveis de acesso — **Operador, Gestor e Administrador** — o sistema garante que cada perfil visualize apenas as informações relevantes ao seu papel, promovendo maior eficiência, transparência e tomada de decisão baseada em dados.
+
+![Track](https://github-production-user-asset-6210df.s3.amazonaws.com/...)
+
+#### Tecnologias Utilizadas
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### Contribuições Pessoais
+Atuei como desenvolvedor back-end, sendo responsável pela modelagem do banco de dados e do Data Warehouse, desenvolvimento de queries complexas com GORM e criação de endpoints RESTful.  
+Implementei procedures otimizadas no banco de dados para melhorar o tempo de resposta e atuei também na criação de testes unitários no back-end, contribuindo diretamente para a esteira de DevOps.  
+Foquei na estabilidade do sistema e na clareza das comunicações internas, garantindo integração entre as equipes e consistência nas entregas.
+
+#### Hard Skills
+* Golang – uso com autonomia  
+* Gin – uso com autonomia  
+* Postgres – uso com ajuda  
+
+#### Soft Skills
+* Empatia – colaborei com colegas em dificuldades técnicas, ajudando no aprendizado coletivo.  
+* Flexibilidade – adaptei-me rapidamente a mudanças de escopo.  
+* Capacidade de adaptação – aprendi novas tecnologias para atender demandas urgentes.  
+* Inteligência emocional – preservei o equilíbrio em momentos de pressão.
+
+---
