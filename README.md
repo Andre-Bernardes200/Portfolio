@@ -94,10 +94,13 @@ Foquei em garantir a organização e rastreabilidade do projeto, além de desenv
 **[Repositório Git](https://github.com/iNineBD/SGTG-2Sem2023)**
 
 **Problema:**  
-Professores enfrentavam dificuldades em acompanhar entregas, prazos e progresso dos Trabalhos de Graduação.
+Muitos desafios no gerenciamento dos Trabalhos de Graduação (TGs) vêm sendo enfrentados no curso de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos, devido à ausência de um sistema prático e eficiente para realizar a gestão.  
+Essa limitação gera dificuldades na organização e no acompanhamento do progresso dos alunos, impactando o controle de entregas, prazos e orientações.
 
 **Solução:**  
-Foi desenvolvido um sistema desktop que permite o gerenciamento completo dos TGs, desde a criação até a avaliação final, com relatórios e controle de notas.
+Para sanar esses problemas, foi proposto o desenvolvimento de um Sistema de Gerenciamento de Banco de Dados, voltado à centralização e simplificação da administração dos TGs**.  
+A aplicação permite acompanhar o andamento dos projetos, controlar prazos de entrega e monitorar o status de cada grupo, tornando o processo de gestão mais eficiente, integrado e transparente para professores e coordenadores.
+
 
 ![SGTG](https://github.com/user-attachments/assets/6c18e96c-193b-4e92-a490-c7829962176c)
 
@@ -131,10 +134,12 @@ Como Scrum Master, gerenciei a equipe, priorizei tarefas e garanti a entrega das
 **[Repositório Git](https://github.com/iNineBD/DataFlow-3Sem2024)**
 
 **Problema:**  
-Os clientes enfrentavam dificuldades para configurar e visualizar fontes de dados em pipelines complexos de processamento.
+A empresa possui um sistema de processamento de dados em cascata chamado pipeline, composto por vários estágios coordenados automaticamente de acordo com as características das fontes de dados e as necessidades dos clientes em relação a algoritmos de inteligência artificial e modelos matemáticos.  
+No entanto, a configuração das fontes de dados ainda era feita de forma manual, o que demandava muito tempo dos técnicos e gerava uma dependência excessiva de profissionais especializados para realizar o processo.
 
 **Solução:**  
-Foi desenvolvida uma aplicação web intuitiva para configuração e mapeamento de dados, com dashboard analítico detalhado e controle completo das etapas do pipeline.
+Para resolver esse problema, foi proposta a criação de uma interface amigável que permitisse a configuração das fontes de dados de forma prática e intuitiva em diferentes estágios do pipeline.  
+A solução trouxe maior agilidade à implantação dos sistemas para os clientes da DOM ROCK, reduzindo o tempo gasto na configuração e diminuindo a dependência de técnicos especializados.
 
 ![DataFlow](https://github.com/user-attachments/assets/28df1878-1026-45f5-b395-d37a48e1e385)
 
@@ -174,10 +179,13 @@ Foquei na integridade dos dados e usabilidade das interfaces.
 **[Repositório Git](https://github.com/iNineBD/GeoTrack-4Sem2024Main)**
 
 **Problema:**  
-Empresas precisavam monitorar fluxos de geolocalização em tempo real provenientes de dispositivos IoT, mas enfrentavam desafios na análise e controle dos dados.
+A empresa enfrentava o desafio de armazenar e consultar dados de geolocalização em tempo real, continuamente gerados por dispositivos IoT, como wearables, etiquetas e smartphones.  
+Esses dados são essenciais para o monitoramento de pessoas e ativos, exigindo um sistema capaz de lidar com grandes volumes de informações de forma escalável, confiável e segura.
 
 **Solução:**  
-Foi desenvolvida uma plataforma web que permite o monitoramento, filtragem e visualização de rotas e áreas geográficas, com autenticação e dashboards analíticos.
+Para superar esses desafios, foi proposta a criação de uma solução que automatizasse o gerenciamento e a configuração dos dados de geolocalização.  
+A plataforma desenvolvida permite acelerar a implantação das operações, garantindo a integridade, consistência e segurança das informações, além de reduzir a necessidade de intervenção de técnicos especializados.  
+Com isso, a empresa passou a otimizar o monitoramento e o rastreamento em tempo real, tornando suas operações mais ágeis e eficientes.
 
 ![GeoTrack](https://github.com/user-attachments/assets/84de99ef-2c5a-481c-8c79-3675a0c163e3)
 
