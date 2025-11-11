@@ -223,7 +223,7 @@ Foi desenvolvida uma plataforma web de **gestão e monitoramento de desempenho d
 A solução possibilita a visualização de dados como número de cards criados e concluídos, tempo médio de execução e distribuição de tarefas por colaborador.  
 Com diferentes níveis de acesso — **Operador, Gestor e Administrador** — o sistema garante que cada perfil visualize apenas as informações relevantes ao seu papel, promovendo maior eficiência, transparência e tomada de decisão baseada em dados.
 
-![Track](https://github-production-user-asset-6210df.s3.amazonaws.com/...)
+![Track](https://github.com/user-attachments/assets/a9bfe6aa-d9b8-4f18-a808-cfded1fdfed6)
 
 #### Tecnologias Utilizadas
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
