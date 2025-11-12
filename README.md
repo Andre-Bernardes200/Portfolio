@@ -51,7 +51,9 @@ Entre todos os meus conhecimentos, destaco:
 ### Primeiro Semestre (2023-1) – Aval360
 
 **Empresa Parceira:** FATEC São José dos Campos
+
 **Orientador:** Fabiano Sabha Walczak
+
 **[Repositório Git](https://github.com/iNineBD/Aval360-1Sem2023)**
 
 **Problema:**  
@@ -92,7 +94,9 @@ Foquei em garantir a organização e rastreabilidade do projeto, além de desenv
 ### Segundo Semestre (2023-2) – Sistema Gerenciador de TGs
 
 **Empresa Parceira:** FATEC São José dos Campos
+
 **Orientador:** Emanuel Mineda Carneiro
+
 **[Repositório Git](https://github.com/iNineBD/SGTG-2Sem2023)**
 
 **Problema:**  
