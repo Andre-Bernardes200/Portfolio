@@ -136,7 +136,8 @@ Como Scrum Master, gerenciei a equipe, priorizei tarefas e garanti a entrega das
 
 ### Terceiro Semestre (2024-1) – DataFlow
 
-**Empresa Parceira:** DOM ROCK  
+**Empresa Parceira:** DOM ROCK
+**Área de Atuação:** Atua no setor de Tecnologia da Informação, com foco em soluções de Inteligência Artificial e análise avançada de dados. Sua plataforma combina algoritmos de IA e automação para integrar, processar e gerenciar grandes volumes de dados (estruturados e não estruturados), transformando-os em informações estratégicas para tomada de decisão. As soluções da empresa otimizam processos de negócio em áreas como marketing, vendas, logística, operações, engenharia e finanças, apoiando tanto o setor privado quanto instituições públicas.
 **[Repositório Git](https://github.com/iNineBD/DataFlow-3Sem2024)**
 
 **Problema:**  
@@ -182,6 +183,7 @@ Foquei na integridade dos dados e usabilidade das interfaces.
 ### Quarto Semestre (2024-2) – GeoTrack
 
 **Empresa Parceira:** ITO1  
+**Área de Atuação:** Atua no fornecimento de soluções completas em Tecnologia da Informação, englobando consultoria especializada, serviços gerenciados e comércio de infraestrutura de TI. Seu escopo inclui desenvolvimento de soluções personalizadas, suporte técnico (Service Desk e Field Services) e fornecimento de equipamentos de informática em larga escala. A empresa também aplica tecnologias emergentes — como IoT, Smart Cities, Indústria 4.0, Inteligência Artificial e Big Data — impulsionando transformação digital, automação e otimização de processos em organizações públicas e privadas. 
 **[Repositório Git](https://github.com/iNineBD/GeoTrack-4Sem2024Main)**
 
 **Problema:**  
@@ -226,7 +228,8 @@ Foquei na estabilidade do sistema e na clareza das comunicações internas.
 
 ### Quinto Semestre (2025-1) – Track
 
-**Empresa Parceira:** Youtan  
+**Empresa Parceira:** Youtan
+**Área de Atuação:** Atua no setor de Tecnologia da Informação como Fábrica de Software, especializada no desenvolvimento de sistemas sob demanda e aplicativos móveis de alta performance. Trabalha com metodologias ágeis e equipes multidisciplinares para conceber, projetar, desenvolver e modernizar sistemas legados, assegurando usabilidade, escalabilidade e alta qualidade técnica. Sua atuação abrange análise de negócios, gestão de projetos, DevOps, suporte e gestão de ambientes em nuvem, posicionando a empresa como parceira estratégica na jornada de transformação digital e inovação dos clientes.
 **[Repositório Git](https://github.com/iNineBD/Track-5Sem2025Main)**
 
 **Problema:**  
@@ -268,7 +271,8 @@ Foquei na estabilidade do sistema e na clareza das comunicações internas, gara
 
 ### Sexto Semestre (2025-2) – VisionData
 
-**Empresa Parceira:** Pro4Tech  
+**Empresa Parceira:** Pro4Tech
+**Área de Atuação:** Atua no setor de Tecnologia da Informação com foco em Transformação Digital e soluções tecnológicas avançadas. Especializada no desenvolvimento personalizado de aplicações web e mobile, utiliza metodologias ágeis em sua fábrica de software. Sua atuação inclui Inteligência Artificial, Business Intelligence, IoT, RPA e soluções em nuvem, impulsionando eficiência operacional, automação e inovação nos negócios de seus clientes.
 **[Repositório Git](https://github.com/iNineBD/VisionData-6Sem2025Main)**
 
 **Problema:**  
