@@ -75,6 +75,16 @@ Foi desenvolvido um sistema via linha de comando para gestão 360° de feedbacks
 ![Monday.com](https://img.shields.io/badge/Monday.com-ffec3d?style=for-the-badge&logo=monday&logoColor=black)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
+* **Python:** Utilizado para desenvolver a lógica do sistema de maneira procedural.
+* **Excel:** Usado para o burndown.
+* **Microsoft Teams:** Utilizado para a comunicação interna do time.
+* **Canva:** Usado para criar os slides da apresentação do projeto.
+* **JSON:** Utilizado para o armazenamento dos dados da aplicação.
+* **Git:** Usado para o versionamento de código do sistema.
+* **VS Code:** Ambiente de desenvolvimento (IDE) para escrever o código.
+* **Monday.com:** Ferramenta usada para a organização e gerenciamento das tarefas sprints.
+* **Discord:** Usado para os encontros e sessões de desenvolvimento em grupo.
+
 #### Contribuições Pessoais
 Atuei no desenvolvimento do backlog, controle das sprints e implementação das funcionalidades de gerenciamento de usuários, perfis e dashboards.  
 Foquei em garantir a organização e rastreabilidade do projeto, além de desenvolver dashboards analíticos para visualização clara dos dados.
@@ -119,6 +129,14 @@ A aplicação permite acompanhar o andamento dos projetos, controlar prazos de e
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+* **Java:** Usada para desenvolver toda a lógica de back-end e regras de negócio do sistema de gerenciamento.
+* **JavaFX:** Utilizada para construir a interface gráfica (telas) da aplicação desktop.
+* **Scene Builder:** Ferramenta usada para desenhar visualmente e prototipar as telas do JavaFX.
+* **MySQL:** Banco de dados relacional usado para armazenar e gerenciar as informações dos Trabalhos de Graduação.
+* **Eclipse:** Ambiente de desenvolvimento (IDE) onde o código Java e JavaFX foi escrito e gerenciado.
+* **ClickUp:** Ferramenta de gerenciamento de projetos para organizar as tarefas (sprints) da equipe.
+* **Figma:** Usado para o design da interface (UI/UX) antes da implementação com JavaFX.
+
 #### Contribuições Pessoais
 Atuei na modelagem do banco de dados, leitura de arquivos CSV, tratamento de erros e build da aplicação (.jar).  
 Como Scrum Master, gerenciei a equipe, priorizei tarefas e garanti a entrega das funcionalidades no prazo.
@@ -137,7 +155,9 @@ Como Scrum Master, gerenciei a equipe, priorizei tarefas e garanti a entrega das
 ### Terceiro Semestre (2024-1) – DataFlow
 
 **Empresa Parceira:** DOM ROCK
+
 **Área de Atuação:** Atua no setor de Tecnologia da Informação, com foco em soluções de Inteligência Artificial e análise avançada de dados. Sua plataforma combina algoritmos de IA e automação para integrar, processar e gerenciar grandes volumes de dados (estruturados e não estruturados), transformando-os em informações estratégicas para tomada de decisão. As soluções da empresa otimizam processos de negócio em áreas como marketing, vendas, logística, operações, engenharia e finanças, apoiando tanto o setor privado quanto instituições públicas.
+
 **[Repositório Git](https://github.com/iNineBD/DataFlow-3Sem2024)**
 
 **Problema:**  
@@ -164,6 +184,17 @@ A solução trouxe maior agilidade à implantação dos sistemas para os cliente
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+* **Java:** Linguagem principal para o desenvolvimento do back-end da aplicação.
+* **Spring Boot:** Framework Java usado para criar a API RESTful (endpoints) e facilitar o desenvolvimento do back-end (CRUDs, validações).
+* **MySQL:** Banco de dados para armazenar os dados e configurações do pipeline (etapas Bronze e Silver).
+* **HTML5 / CSS3 / JavaScript:** Tecnologias base para construir a "interface amigável" (front-end).
+* **Vue.js:** Framework JavaScript usado para criar o front-end reativo e intuitivo.
+* **ClickUp:** Ferramenta para gerenciamento ágil do projeto e organização das tarefas.
+* **Figma:** Usado para desenhar e prototipar a interface do usuário (UI/UX).
+* **IntelliJ IDEA:** IDE principal para o desenvolvimento do back-end com Java e Spring Boot.
+* **VS Code:** Editor de código, provavelmente usado para o desenvolvimento do front-end (Vue.js, HTML, CSS).
+* **Postman:** Ferramenta para testar os endpoints da API REST (back-end) durante o desenvolvimento.
+
 #### Contribuições Pessoais
 Atuei como desenvolvedor back-end nas etapas Bronze e Silver, modelando o banco de dados e implementando CRUDs, importação de arquivos e validação de etapas.  
 Foquei na integridade dos dados e usabilidade das interfaces.
@@ -183,7 +214,9 @@ Foquei na integridade dos dados e usabilidade das interfaces.
 ### Quarto Semestre (2024-2) – GeoTrack
 
 **Empresa Parceira:** ITO1  
+
 **Área de Atuação:** Atua no fornecimento de soluções completas em Tecnologia da Informação, englobando consultoria especializada, serviços gerenciados e comércio de infraestrutura de TI. Seu escopo inclui desenvolvimento de soluções personalizadas, suporte técnico (Service Desk e Field Services) e fornecimento de equipamentos de informática em larga escala. A empresa também aplica tecnologias emergentes — como IoT, Smart Cities, Indústria 4.0, Inteligência Artificial e Big Data — impulsionando transformação digital, automação e otimização de processos em organizações públicas e privadas. 
+
 **[Repositório Git](https://github.com/iNineBD/GeoTrack-4Sem2024Main)**
 
 **Problema:**  
@@ -210,6 +243,17 @@ Com isso, a empresa passou a otimizar o monitoramento e o rastreamento em tempo 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+* **Java / Spring Boot:** Usados para construir o back-end e os endpoints RESTful para gerenciar e consultar os dados de geolocalização.
+* **Oracle:** Banco de dados relacional robusto, usado para armazenar o grande volume de dados de geolocalização em tempo real.
+* **Vue.js:** Framework JavaScript para construir o front-end (a plataforma de configuração e monitoramento).
+* **Vuetify:** Biblioteca de componentes de interface (UI) para Vue.js, usada para agilizar o design do front-end.
+* **JavaScript:** Linguagem base para o desenvolvimento front-end com Vue.js.
+* **YouTrack:** Ferramenta para gerenciamento de tarefas e acompanhamento do projeto.
+* **Figma:** Usado para o design e prototipação da interface da plataforma.
+* **IntelliJ IDEA:** IDE para o desenvolvimento back-end com Java e Spring Boot.
+* **VS Code:** Editor de código para o desenvolvimento front-end (Vue.js).
+* **Postman:** Ferramenta para testar a API RESTful (back-end).
+
 #### Contribuições Pessoais
 Atuei como desenvolvedor back-end e Scrum Master, responsável pela modelagem do banco, queries complexas com JPA, endpoints RESTful e mediação entre PO e equipe.  
 Foquei na estabilidade do sistema e na clareza das comunicações internas.
@@ -229,7 +273,9 @@ Foquei na estabilidade do sistema e na clareza das comunicações internas.
 ### Quinto Semestre (2025-1) – Track
 
 **Empresa Parceira:** Youtan
+
 **Área de Atuação:** Atua no setor de Tecnologia da Informação como Fábrica de Software, especializada no desenvolvimento de sistemas sob demanda e aplicativos móveis de alta performance. Trabalha com metodologias ágeis e equipes multidisciplinares para conceber, projetar, desenvolver e modernizar sistemas legados, assegurando usabilidade, escalabilidade e alta qualidade técnica. Sua atuação abrange análise de negócios, gestão de projetos, DevOps, suporte e gestão de ambientes em nuvem, posicionando a empresa como parceira estratégica na jornada de transformação digital e inovação dos clientes.
+
 **[Repositório Git](https://github.com/iNineBD/Track-5Sem2025Main)**
 
 **Problema:**  
@@ -250,6 +296,14 @@ Com diferentes níveis de acesso — Operador, Gestor e Administrador — o sist
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+* **Golang (Go):** Linguagem usada para o desenvolvimento do back-end (API RESTful), escolhida pela alta performance.
+* **Gin:** Framework web para Go, usado para criar os endpoints da API de forma rápida e eficiente.
+* **Nuxt:** Framework (baseado em Vue.js) usado para construir a plataforma web (front-end) de gestão e monitoramento.
+* **PostgreSQL:** Banco de dados relacional usado para armazenar os dados e o Data Warehouse (DW).
+* **Figma:** Ferramenta para o design dos dashboards e da interface da plataforma.
+* **VS Code:** Editor de código usado tanto para o back-end (Go) quanto para o front-end (Nuxt).
+* **Postman:** Usado para testar os endpoints da API RESTful desenvolvida em Go/Gin.
 
 #### Contribuições Pessoais
 Atuei como desenvolvedor back-end, sendo responsável pela modelagem do banco de dados e do Data Warehouse, desenvolvimento de queries complexas com GORM e criação de endpoints RESTful.  
@@ -272,7 +326,9 @@ Foquei na estabilidade do sistema e na clareza das comunicações internas, gara
 ### Sexto Semestre (2025-2) – VisionData
 
 **Empresa Parceira:** Pro4Tech
+
 **Área de Atuação:** Atua no setor de Tecnologia da Informação com foco em Transformação Digital e soluções tecnológicas avançadas. Especializada no desenvolvimento personalizado de aplicações web e mobile, utiliza metodologias ágeis em sua fábrica de software. Sua atuação inclui Inteligência Artificial, Business Intelligence, IoT, RPA e soluções em nuvem, impulsionando eficiência operacional, automação e inovação nos negócios de seus clientes.
+
 **[Repositório Git](https://github.com/iNineBD/VisionData-6Sem2025Main)**
 
 **Problema:**  
@@ -292,6 +348,14 @@ Foi desenvolvido um sistema inteligente para transformar os dados brutos de tick
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+* **Elasticsearch:** Usado como motor de busca (e observabilidade com Kibana) para permitir consultas rápidas na base de conhecimento de tickets.
+* **Go (Golang):** Linguagem principal do back-end e para garantir o fluxo de ETL (Extração, Transformação e Carga).
+* **Jira:** Fonte de dados (de onde os tickets antigos foram extraídos).
+* **Oracle:** Banco de dados usado para armazenar os dados.
+* **Visual Studio Code:** Editor de código para o desenvolvimento.
+* **Vue.js / Nuxtjs:** Usados para construir a aplicação web (front-end) onde os usuários consultam os tickets e visualizam as métricas.
+* **Python:** Usado para criar scripts do fluxo de ETL, tratando e preparando os dados brutos dos tickets.
 
 #### Contribuições Pessoais
 Atuei como desenvolvedor back-end, sendo responsável pela modelagem do Data Warehouse e por garantir a consistência de todo o fluxo de ETL da aplicação. Também assegurei a observabilidade completa desses processos utilizando Elastic e Kibana, permitindo monitoramento contínuo e identificação rápida de anomalias.
