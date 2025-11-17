@@ -347,10 +347,10 @@ Durante todas as fases, meu foco principal foi garantir a estabilidade do sistem
 * Postgres – uso com autonomia  
 
 #### Soft Skills
-* **Empatia** – Colaborei ativamente com a equipe de front-end, entendendo suas dificuldades em consumir a API Go e ajustando os endpoints (feitos em Gin) para facilitar a integração com o Nuxt.
+* **Trabalho em Equipe** – Colaborei ativamente com a equipe de front-end, entendendo suas dificuldades em consumir a API Go e ajustando os endpoints (feitos em Gin) para facilitar a integração com o Nuxt.
 * **Flexibilidade** – Adaptei-me à mudança de requisito no meio da sprint, que exigiu a inclusão de novas métricas no Data Warehouse, ajustando a modelagem do PostgreSQL sem atrasar a entrega principal.
 * **Capacidade de adaptação** – Aprendi e apliquei rapidamente a linguagem Golang e o framework Gin, que eram novos para mim, para conseguir construir o back-end de alta performance exigido pelo projeto.
-* **Inteligência emocional** – Mantive o equilíbrio durante a fase de depuração dos testes unitários, que falhavam na esteira de DevOps, analisando o problema de forma lógica e sem me deixar pressionar pelo prazo.
+* **Resiliência** – Mantive o equilíbrio durante a fase de depuração dos testes unitários, que falhavam na esteira de DevOps, analisando o problema de forma lógica e sem me deixar pressionar pelo prazo.
 
 ---
 
@@ -407,6 +407,6 @@ Finalmente, atuei no aprimoramento e na implementação dos processos de geraç�
 #### Soft Skills
 * **Flexibilidade** – Ajustei o escopo do fluxo de ETL diversas vezes após descobrir novos formatos de dados não documentados vindos do Jira, modificando os scripts Python para lidar com essas exceções sem quebrar o processo.
 * **Capacidade de adaptação** – Tive que aprender e implementar rapidamente o Elastic e o Kibana para garantir a observabilidade do ETL, uma ferramenta que eu não dominava, mas que era essencial para o monitoramento do projeto.
-* **Inteligência emocional** – Lidei com a pressão de desenvolver o mecanismo de backup em conformidade com a LGPD, um requisito crítico e sem margem para erros, mantendo o foco na análise técnica da lei.
+* **Resiliência** – Lidei com a pressão de desenvolver o mecanismo de backup em conformidade com a LGPD, um requisito crítico e sem margem para erros, mantendo o foco na análise técnica da lei.
 
 ---
