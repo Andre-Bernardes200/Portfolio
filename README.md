@@ -86,9 +86,13 @@ Foi desenvolvido um sistema via linha de comando para gestão 360° de feedbacks
 * **Discord:** Usado para os encontros e sessões de desenvolvimento em grupo.
 
 #### Contribuições Pessoais
-Atuei ativamente na construção e organização do backlog do projeto, estruturando as tarefas de acordo com os requisitos funcionais e técnicos levantados com a equipe. Essa atividade foi essencial para o planejamento das entregas e priorização de funcionalidades, promovendo maior clareza no fluxo de trabalho e alinhamento entre os membros do time. Participei do desenvolvimento das funcionalidades relacionadas ao controle de usuários dentro do sistema, permitindo o cadastro, edição e gerenciamento das contas de forma segura e eficiente.
+Atuei ativamente na construção e organização do backlog do projeto, estruturando as tarefas de acordo com os requisitos funcionais e técnicos levantados com a equipe. Essa atividade foi essencial para o planejamento das entregas e priorização de funcionalidades, promovendo maior clareza no fluxo de trabalho e alinhamento entre os membros do time.
 
-Contribuí na implementação de mecanismos de controle de perfis, definindo níveis distintos de acesso conforme os papéis dos usuários no sistema. Essa abordagem permitiu uma administração mais segura e estruturada. Auxiliei no desenvolvimento de dashboards interativos para visualização de dados relevantes do sistema, projetados para facilitar o acompanhamento de indicadores. Durante o projeto, desenvolvi e aperfeiçoei habilidades de comunicação e trabalho em equipe, colaborando ativamente com os demais integrantes para garantir o alinhamento de ideias e a resolução de problemas, participando de reuniões frequentes e promovendo um ambiente colaborativo e produtivo.
+Participei do desenvolvimento das funcionalidades, utilizando a linguagem Python para desenvolver a lógica de programação de todo o sistema. Isso incluiu o controle de usuários, permitindo o cadastro, edição e gerenciamento das contas de forma segura, e a implementação de mecanismos de controle de perfis, definindo níveis distintos de acesso.
+
+Auxiliei também no desenvolvimento de dashboards interativos para visualização de dados relevantes do sistema, projetados para facilitar o acompanhamento de indicadores. Para esta funcionalidade, utilizei a lib pandas para o desenvolvimento de dados agrupados para tabelas.
+
+Durante o projeto, desenvolvi e aperfeiçoei habilidades de comunicação e trabalho em equipe, colaborando ativamente com os demais integrantes para garantir o alinhamento de ideias e a resolução de problemas, participando de reuniões frequentes e promovendo um ambiente colaborativo e produtivo.
 
 #### Hard Skills
 * Python – uso com autonomia  
@@ -139,7 +143,9 @@ A aplicação permite acompanhar o andamento dos projetos, controlar prazos de e
 * **Figma:** Usado para o design da interface (UI/UX) antes da implementação com JavaFX.
 
 #### Contribuições Pessoais
-Atuei na modelagem conceitual e lógica do banco de dados, desenvolvendo scripts otimizados para garantir eficiência no armazenamento e no processamento das informações. Meu trabalho incluiu a análise detalhada dos requisitos de dados, a eliminação de redundâncias e a definição de relacionamentos entre as tabelas para assegurar a integridade referencial. Contribuí no desenvolvimento de uma funcionalidade para a leitura de arquivos CSV, implementando um processo eficiente para extrair os dados contidos no arquivo e apresentá-los de forma clara e organizada na tela.
+Atuei na modelagem conceitual e lógica do banco de dados, desenvolvendo scripts otimizados para garantir eficiência no armazenamento e no processamento das informações. Para a interação com o banco, utilizei Java para implementar a conexão com o banco de dados MySql, centralizando essa lógica no package DAO. Meu trabalho incluiu a análise detalhada dos requisitos de dados, a eliminação de redundâncias e a definição de relacionamentos entre as tabelas para assegurar a integridade referencial.
+
+Participei ativamente do desenvolvimento da aplicação, usando Java para fazer o desenvolvimento de toda a regra de negócio do sistema. Contribuí em uma funcionalidade chave para a leitura de arquivos CSV, onde utilizei JavaFx para o desenvolvimento da tela de importação e validação dos dados, implementando um processo eficiente para extrair os dados contidos no arquivo e apresentá-los de forma clara e organizada na tela.
 
 Contribuí ativamente no desenvolvimento dos tratamentos de erro da aplicação, implementando mecanismos que garantem uma resposta clara e informativa sempre que algo não funcionasse como esperado. A solução foi projetada para capturar falhas de forma eficiente e exibir mensagens de erro, indicando o que deu errado. Contribuí ativamente no processo de construção da aplicação, empacotando-a em um arquivo .jar, facilitando sua execução e distribuição. Assumi a responsabilidade de master do projeto, garantindo a fluidez e a organização do processo de desenvolvimento, definindo prioridades e coordenando a equipe.
 
@@ -199,9 +205,17 @@ A solução trouxe maior agilidade à implantação dos sistemas para os cliente
 * **Postman:** Ferramenta para testar os endpoints da API REST (back-end) durante o desenvolvimento.
 
 #### Contribuições Pessoais
-Contribuí para a modelagem do banco de dados, assegurando sua normalização em todas as etapas do projeto para evitar redundâncias e melhorar a eficiência do armazenamento. Implementei estratégias para garantir o bom armazenamento dos dados provenientes de arquivos CSV ou XLS, realizando a limpeza e transformação necessárias. Também contribuí para implementar um fluxo no qual, ao finalizar uma etapa do projeto, o cliente tivesse a opção de validar ou rejeitar o trabalho realizado, exigindo uma justificativa detalhada em caso de rejeição.
+Contribuí para a modelagem do banco de dados, assegurando sua normalização em todas as etapas do projeto. Utilizei Java com o framework Spring, aplicando Hibernate e JPA para o mapemanto das tabelas no banco de dados, o que evitou redundâncias e melhorou a eficiência do armazenamento.
 
-Atuei ativamente no desenvolvimento completo do CRUD na etapa bronze, permitindo ao cliente criar um hash e selecionar metadados como identificadores únicos, incluindo opções de editar, excluir e visualizar. Participei também do CRUD da etapa silver, onde o cliente podia criar o DExPARA, sendo responsável por enviar ao front-end uma lista de metadados de um arquivo específico para seleção. Por fim, contribuí significativamente para o desenvolvimento da etapa de importação de arquivos na fase Silver, criando um método que processava as informações contidas em arquivos CSV ou XLS e as enviava ao front-end para exibição.
+Todo o backend foi construído usando Java e Spring, que utilizei para o desenvolvimento das regras de negócio e para gerenciar a conexão com o banco de dados.
+
+Atuei ativamente no desenvolvimento completo do CRUD na etapa bronze, permitindo ao cliente criar um hash e selecionar metadados como identificadores únicos, incluindo opções de editar, excluir e visualizar.
+
+Participei também do CRUD da etapa silver, onde o cliente podia criar o DExPARA, sendo responsável por enviar ao front-end uma lista de metadados de um arquivo específico para seleção.
+
+Contribuí significativamente para o desenvolvimento da etapa de importação de arquivos na fase Silver, criando um método que processava as informações contidas em arquivos CSV ou XLS e as enviava ao front-end para exibição.
+
+Também implementei estratégias para garantir o bom armazenamento dos dados desses arquivos e um fluxo no qual, ao finalizar uma etapa, o cliente tivesse a opção de validar ou rejeitar o trabalho, exigindo uma justificativa detalhada em caso de rejeição.
 
 #### Hard Skills
 * Java – uso com autonomia  
@@ -259,9 +273,15 @@ Com isso, a empresa passou a otimizar o monitoramento e o rastreamento em tempo 
 * **Postman:** Ferramenta para testar a API RESTful (back-end).
 
 #### Contribuições Pessoais
-Atuei na modelagem conceitual e lógica do banco de dados, desenvolvendo scripts otimizados para garantir eficiência no armazenamento e no processamento das informações. Meu trabalho incluiu a análise detalhada dos requisitos de dados, a eliminação de redundâncias e a definição de relacionamentos entre as tabelas para assegurar a integridade referencial. Também atuei como master do projeto, exercendo um papel essencial na mediação entre o Product Owner (PO) e a equipe de desenvolvimento, facilitando a comunicação e o alinhamento das expectativas e prioridades.
+Atuei na modelagem conceitual e lógica do banco de dados, desenvolvendo scripts otimizados para garantir eficiência no armazenamento e no processamento das informações.
 
-Contribuí de forma ativa na identificação e resolução de problemas que surgiram durante o desenvolvimento, trabalhando diretamente com a equipe para depurar e corrigir bugs, assegurando a estabilidade da aplicação. Apoiei o desenvolvimento de queries complexas utilizando JPA (Java Persistence API) para otimizar a extração e manipulação de dados. Participei ativamente na criação de endpoints RESTful voltados para o retorno de informações de usuários e de locais salvos, com foco em clareza, segurança e aderência às boas práticas.
+Foquei fortemente em técnicas de otimização no banco de dados, aplicando triggres, procedures, indíces e partições para assegurar a performance no processamento do grande volume de dados de geolocalização em tempo real.
+
+Assim como no semestre anterior, utilizei Java com o framework Spring e JPA para o mapeamento das tabelas e para o desenvolvimento das regras de negócio, além de gerenciar a conexão com o banco de dados Oracle.
+
+Participei ativamente na criação de endpoints RESTful voltados para o retorno de informações de usuários e de locais salvos. Também apoiei o desenvolvimento de queries complexas utilizando JPA para otimizar a extração de dados e contribuí na resolução de bugs, assegurando a estabilidade da aplicação.
+
+Também atuei como master do projeto, exercendo um papel essencial na mediação entre o Product Owner (PO) e a equipe de desenvolvimento, facilitando a comunicação e o alinhamento das expectativas e prioridades.
 
 Na minha atuação como master neste projeto, apliquei uma estrutura de rituais semelhante. A ferramenta central foi o YouTrack, onde todo o acompanhamento de tarefas, datas e descritivos era realizado. Foi também no YouTrack que o burndown chart do projeto foi construído e monitorado continuamente. Mantive a cadência de Dailys (segundas, quartas e sextas) para garantir a sincronia da equipe e utilizei uma tabela Excel para consolidar as avaliações de performance e os resultados de cada sprint.
 
@@ -313,9 +333,13 @@ Com diferentes níveis de acesso — Operador, Gestor e Administrador — o sist
 * **Postman:** Usado para testar os endpoints da API RESTful desenvolvida em Go/Gin.
 
 #### Contribuições Pessoais
-Assumi um papel central no desenvolvimento back-end do projeto, sendo o principal responsável pela arquitetura e modelagem tanto do banco de dados transacional quanto do Data Warehouse. Minha responsabilidade era garantir que a estrutura de dados fosse otimizada para operações diárias e para suportar análises complexas. Minha atuação incluiu o desenvolvimento de queries complexas utilizando GORM e a implementação de procedures otimizadas diretamente no banco de dados para melhorar o tempo de resposta da aplicação, além da criação de uma API RESTful completa com endpoints robustos.
+Assumi um papel central no desenvolvimento back-end do projeto. Utilizei Golang com o framework Gin para o desenvolvimento completo da API RESTful e de todas as regras de negócio, garantindo alta performance.
 
-Paralelamente, atuei fortemente na criação de testes unitários abrangentes para o back-end, uma contribuição direta para a esteira de DevOps que aumentou a confiabilidade do código e a segurança nas entregas. Durante todas as fases, meu foco principal foi garantir a estabilidade do sistema e manter a clareza nas comunicações internas, o que foi crucial para assegurar a integração entre as equipes de front e back-end e a consistência técnica nas entregas do projeto.
+Fui o principal responsável pela arquitetura e modelagem tanto do banco de dados transacional quanto do Data Warehouse. Utilizei o GORM para fazer o mapeamento das tabelas e implementar queries complexas, assegurando que a estrutura de dados fosse otimizada para operações diárias e para suportar análises complexas.
+
+Paralelamente, atuei fortemente na criação de testes unitários abrangentes para o back-end. Essa foi uma contribuição direta para a esteira de DevOps, que aumentou a confiabilidade do código e a segurança nas entregas.
+
+Durante todas as fases, meu foco principal foi garantir a estabilidade do sistema e manter a clareza nas comunicações internas. Isso foi crucial para assegurar a integração eficiente entre as equipes de front (Nuxt) e back-end (Go) e a consistência técnica nas entregas do projeto.
 
 #### Hard Skills
 * Golang – uso com autonomia  
@@ -365,9 +389,15 @@ Foi desenvolvido um sistema inteligente para transformar os dados brutos de tick
 * **Python:** Usado para criar scripts do fluxo de ETL, tratando e preparando os dados brutos dos tickets.
 
 #### Contribuições Pessoais
-Como desenvolvedor back-end principal nesta iniciativa, fui responsável por toda a modelagem do Data Warehouse, desenhando uma estrutura de dados capaz de suportar a análise de grandes volumes de tickets de suporte antigos. Garanti a consistência de ponta a ponta do fluxo de ETL (Extração, Transformação e Carga), desenvolvendo os processos que transformavam dados brutos e desorganizados em informações estratégicas e consultáveis. Utilizando Elastic e Kibana, implementei e assegurei a observabilidade completa desses processos de ETL, permitindo monitoramento contínuo e identificação rápida de falhas.
+Como desenvolvedor back-end principal nesta iniciativa, fui responsável por toda a modelagem do Data Warehouse, desenhando uma estrutura de dados capaz de suportar a análise de grandes volumes de tickets de suporte antigos.
 
-Uma contribuição técnica significativa foi no desenvolvimento do mecanismo de backup do sistema, onde projetei e implementei rotinas que asseguravam a conformidade total com os requisitos da LGPD, protegendo os dados sensíveis. Finalmente, atuei no aprimoramento e na implementação dos processos de geração e tratamento de logs, reforçando a rastreabilidade de todas as ações no sistema e, consequentemente, a segurança global das informações da plataforma.
+Garanti a consistência de ponta a ponta do fluxo de ETL. Utilizei a linguagem Python para fazer todo o processo de ETL de maneira schedulada, desenvolvendo os scripts que transformavam dados brutos e desorganizados em informações estratégicas e consultáveis. Para isso, criei a conexão com o banco utilizando o pyodbc.
+
+Utilizando Elastic e Kibana, implementei e assegurei a observabilidade completa desses processos de ETL, permitindo monitoramento contínuo e identificação rápida de falhas.
+
+Uma contribuição técnica significativa foi no desenvolvimento do mecanismo de backup do sistema, onde projetei e implementei rotinas que asseguravam a conformidade total com os requisitos da LGPD, protegendo os dados sensíveis.
+
+Finalmente, atuei no aprimoramento e na implementação dos processos de geração e tratamento de logs, reforçando a rastreabilidade de todas as ações no sistema e, consequentemente, a segurança global das informações da plataforma.
 
 #### Hard Skills
 * Python – uso com autonomia  
